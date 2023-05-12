@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193523130506",
+    "project_id": "mod-basuri-v3",
+    "storage_bucket": "mod-basuri-v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193523130506:android:48f7285bd1aab42c264d73",
+        "android_client_info": {
+          "package_name": "com.avivizain.modbussid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193523130506-41ng9i165hg9g6mirvccq0j1f9doimuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT8ivey2I_SiHiA6p9WOYVhbfJ46Xo9KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193523130506-41ng9i165hg9g6mirvccq0j1f9doimuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
